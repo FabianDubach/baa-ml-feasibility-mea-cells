@@ -1,0 +1,41 @@
+Review: application of machine learning methods to performance evaluation, lifetime prediction and integrated management of hydrogen fuel cells
+https://link.springer.com/article/10.1007/s10668-025-06386-y
+
+Unlocking the potential: machine learning applications in electrocatalyst design for electrochemical hydrogen energy transformation
+https://pubs.rsc.org/en/content/articlehtml/2024/cs/d4cs00844h
+
+Production of Fuel Cell and Electrolysis Membrane Electrode Assemblies
+https://www.ise.fraunhofer.de/en/business-areas/hydrogen-technologies/fuel-cell/mea-production.html
+
+Artificial Intelligence/Machine Learning in Energy Management Systems, Control, and Optimization of Hydrogen Fuel Cell Vehicles
+https://www.mdpi.com/2071-1050/15/6/5249
+
+Machine Learning Applications in Gray, Blue, and Green Hydrogen Production: A Comprehensive Review
+https://www.mdpi.com/2673-5628/5/2/9
+
+Fuel Cell Degradation Prediction Using Machine Learning Models: A Study on Proton Exchange Membrane (PEM) Fuel Cell Dataset
+https://www.researchsquare.com/article/rs-6710108/v1
+
+The Degradation Prediction of Proton Exchange Membrane Fuel Cell Performance Based on a Transformer Model
+https://www.mdpi.com/1996-1073/17/12/3050
+
+Machine learning and Bayesian optimization for performance prediction of proton-exchange membrane fuel cells
+https://hal.science/hal-04611875/file/Machine%20learning%20and%20Bayesian%20optimization%20for%20performance%20prediction%20of%20proton-exchange%20membrane%20fuel%20cells.pdf
+
+Modeling and Performance Analysis of PEM Fuel Cells Using Machine Learning Techniques
+https://ieeexplore.ieee.org/document/10915531
+
+Predicting Proton Exchange Membrane Fuel Cell Performance through Advanced Machine Learning Techniques: A Comparative Analysis of Ensemble Techniques
+https://scientia-tss.com/index.php/journal/article/view/115
+
+Prediction of PEM fuel cell performance degradation using bidirectional long short-term memory with chimp optimization algorithm
+https://link.springer.com/article/10.1140/epjs/s11734-024-01408-8
+
+Machine learning based fault diagnosis and performance estimation of automotive PEM fuel cells through optimal EIS tests
+https://www.politesi.polimi.it/handle/10589/144239
+
+A Real Case: How to Combine Polarization Curve and EIS Techniques to Identify Problematic Cells in a Commercial PEM Stack
+https://www.mdpi.com/2673-3994/5/3/26
+
+Machine learning modeling for proton exchange membrane fuel cell performance
+https://www.sciencedirect.com/science/article/pii/S2666546822000325
